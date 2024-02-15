@@ -1,0 +1,18 @@
+tbody {
+    text-align: center;
+    background-color: rgb(255, 198, 198)
+  }
+  .CSCI366 {
+    text-align: center;
+  }
+  .CSCI313 {
+    text-align: center;
+  }
+  .CSCI374 {
+    text-align: center;
+  }
+  body {
+    background-color: antiquewhite;
+  }
+
+  /* note: background-color wouldn't work with this, so they are css inline statements. I know that isn't how the assignment is intended; I just couldn't figure it out in time.

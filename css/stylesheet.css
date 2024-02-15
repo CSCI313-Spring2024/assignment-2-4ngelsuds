@@ -1,0 +1,23 @@
+body{
+    background-image: url(/img/jesse-collins-znekTMMoBrM-unsplash.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}  
+p {
+        background-color: antiquewhite;
+        background-size: auto;
+}
+.BioImage {
+    border-radius: 0.5in;
+          border-style: groove;
+          border-width: 5px;
+          float: right;
+          height: 300px;
+}
+.movieUL {
+    background-color: antiquewhite;
+}
+.funfacts {
+    background-color: antiquewhite;
+}
